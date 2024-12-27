@@ -297,8 +297,8 @@ header {
 .section {
     padding: 0rem;
     margin: 0rem 0;
-    border: 1px solid #1e1e1e; 
-    border-radius: 10px; 
+    border: 0px solid #1e1e1e; 
+    border-radius: 0px; 
     background-color: #2e2e2e; /* Dark background */
     color: #ffffff; 
 }
